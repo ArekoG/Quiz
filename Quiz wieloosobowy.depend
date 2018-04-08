@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1496414194 source:c:\users\arek\desktop\quiz wieloosobowy\projekt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+	<conio.h>
+
+1497794918 source:c:\users\arek\desktop\na pliki\main.c
+	<stdio.h>
+	<stdlib.h>
+	"struktury.h"
+	"delete_struct.h"
+	"plikowe_funkcje.h"
+	"wyswietlanie.h"
+	<string.h>
+	<stdbool.h>
+	<time.h>
+	<conio.h>
+
+1497794578 c:\users\arek\desktop\na pliki\struktury.h
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+
+1497794195 source:c:\users\arek\desktop\na pliki\funkcje.cpp
+	<stdio.h>
+	<stdlib.h>
+	"struktury.h"
+	<string.h>
+	<stdbool.h>
+	<time.h>
+	<conio.h>
+
+1497794373 c:\users\arek\desktop\na pliki\delete_struct.h
+	<stdio.h>
+	<stdlib.h>
+
+1497794669 c:\users\arek\desktop\na pliki\plikowe_funkcje.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1497794934 c:\users\arek\desktop\na pliki\wyswietlanie.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<stdbool.h>
+
+1497813604 source:c:\users\arek\desktop\pp2.pro.1id13.gajda.kozera\quiz wieloosobowy\main.c
+	<stdio.h>
+	<stdlib.h>
+	"struktury.h"
+	"delete_struct.h"
+	"plikowe_funkcje.h"
+	"wyswietlanie.h"
+	"add_to_struct.h"
+	<string.h>
+	<stdbool.h>
+	<time.h>
+	<conio.h>
+
+1497794578 c:\users\arek\desktop\pp2.pro.1id13.gajda.kozera\quiz wieloosobowy\struktury.h
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+
+1497795486 c:\users\arek\desktop\pp2.pro.1id13.gajda.kozera\quiz wieloosobowy\delete_struct.h
+	<stdio.h>
+	<stdlib.h>
+
+1497795715 c:\users\arek\desktop\pp2.pro.1id13.gajda.kozera\quiz wieloosobowy\plikowe_funkcje.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1497796111 c:\users\arek\desktop\pp2.pro.1id13.gajda.kozera\quiz wieloosobowy\wyswietlanie.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<stdbool.h>
+
+1497813569 c:\users\arek\desktop\pp2.pro.1id13.gajda.kozera\quiz wieloosobowy\add_to_struct.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<stdbool.h>
+
